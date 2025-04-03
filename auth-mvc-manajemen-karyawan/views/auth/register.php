@@ -10,7 +10,7 @@ include '../includes/header.php' ;
 //     exit();
 // }
 ?>
-    <div class="w-full max-w-md bg-white rounde-lg shadow-md p-8 justify-center">
+    <div class="w-full max-w-md mx-auto bg-white rounde-lg shadow-md p-8 justify-center">
         <h2 class="text-2xl font-bold text-center mb-6">
            Register New User
         </h2>

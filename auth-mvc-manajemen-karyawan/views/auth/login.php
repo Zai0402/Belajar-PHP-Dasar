@@ -7,7 +7,7 @@ include '../includes/header.php';
 
 
 ?>
-    <div class="w-full max-w-md bg-white rounde-lg shadow-md p-8">
+    <div class="w-full max-w-md mx-auto bg-white rounde-lg shadow-md p-8">
         <h2 class="text-2xl font-bold text-center mb-6">
            Login User
         </h2>
